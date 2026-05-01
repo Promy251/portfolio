@@ -18,7 +18,7 @@ A mobile application developed using Java in Android Studio that helps users man
 * Event scheduling and tracking
 * User-friendly interface
 
-🔗 Project Link: [https://github.com/yourusername/project-link](https://github.com/Promy251/Event-Ease.git)
+🔗 Project Link: [https://github.com/Promy251/project-link](https://github.com/Promy251/Event-Ease.git)
 
 ---
 
@@ -31,7 +31,7 @@ A simple and efficient task management application to help users organize daily 
 * Mark tasks as completed
 * Clean and minimal user interface
 
-🔗 Project Link: [https://github.com/yourusername/project-link](https://github.com/Promy251/todo.git)
+🔗 Project Link: [https://github.com/Promy251/project-link](https://github.com/Promy251/todo.git)
 
 ---
 
