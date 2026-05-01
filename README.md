@@ -18,20 +18,21 @@ A mobile application developed using Java in Android Studio that helps users man
 * Event scheduling and tracking
 * User-friendly interface
 
-🔗 Project Link: [https://github.com/Promy251/Event-Ease.git](https://github.com/Promy251/Event-Ease.git)
+🔗 Project Link: [https://github.com/yourusername/project-link](https://github.com/Promy251/Event-Ease.git)
 
 ---
 
-### 📚 Student Record Manager
+### ✅ To-Do App
 
-A Flutter-based application that manages student information using local storage.
+A simple and efficient task management application to help users organize daily activities.
 **Key Features:**
 
-* Add, update, and delete student records
-* Simple and clean UI
-* Offline data management
+* Add, update, and delete tasks
+* Mark tasks as completed
+* Clean and minimal user interface
 
-🔗 Project Link:
+🔗 Project Link: [https://github.com/yourusername/project-link](https://github.com/Promy251/todo.git)
+
 ---
 
 ### 🧠 Bangla Hate Speech Detection (Thesis)
@@ -42,6 +43,7 @@ A machine learning project focused on detecting hate speech in Bangla text using
 * Dataset: 12,000 comments (Non-hate, Explicit, Implicit)
 * Models Used: SVM, BanglaBERT
 * Focus: Text classification and NLP
+
 ---
 
 ## 🛠️ Skills
@@ -59,14 +61,13 @@ Machine Learning, NLP, SVM, Text Classification
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Promy251\&show_icons=true)
 
 ---
 
 ## 📫 Contact
 
 📧 Email: [tasniahaque456@gmail.com](mailto:your@email.com)
-🔗 LinkedIn: https://linkedin.com/in/yourprofile
 
 ---
 
