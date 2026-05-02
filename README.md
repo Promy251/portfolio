@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile.jpeg" width="150" style="border-radius:50%;">
+</p>
+
 # 👋 Hi, I'm Promy
 
 🎓 Computer Science & Engineering Student
